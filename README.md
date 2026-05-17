@@ -37,16 +37,58 @@ Currently Exploring:
 
 # ⚡ Tech Arsenal
 
-<div align="center">
+---
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+## 🎨 Creative & Editing
+
+<div align="left">
+
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
+![After Effects](https://img.shields.io/badge/Adobe_After_Effects-111111?style=for-the-badge&logo=adobeaftereffects)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
+![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva)
+
+</div>
+
+---
+
+## 💻 Development Stack
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
-![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
-![After Effects](https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
+
+</div>
+
+---
+
+## ☁️ Platforms & Deployment
+
+<div align="left">
+
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
+![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway)
+
+</div>
+
+---
+
+## 🤖 AI Workspace
+
+<div align="left">
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-111111?style=for-the-badge&logo=google)
 
 </div>
 
