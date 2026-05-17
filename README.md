@@ -41,9 +41,11 @@ Strengths:
 
 ---
 
-# 🚀 Tech Arsenal
+# ⚡ Tech Arsenal
 
-## 🎨 Creative & Editing
+---
+
+## 🎨 Creative & Motion
 
 <div align="left">
 
@@ -57,7 +59,7 @@ Strengths:
 
 ---
 
-## 💻 Development
+## 💻 Frontend Engineering
 
 <div align="left">
 
@@ -65,15 +67,29 @@ Strengths:
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
 
 </div>
 
 ---
 
-## ☁️ Platforms & Deployment
+## ⚙️ Backend & APIs
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+
+</div>
+
+---
+
+## ☁️ Cloud & Deployment
 
 <div align="left">
 
@@ -81,16 +97,17 @@ Strengths:
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase)
 ![Railway](https://img.shields.io/badge/Railway-111111?style=for-the-badge&logo=railway)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 
 </div>
 
 ---
 
-## 🤖 AI Workspace
+## 🤖 AI Workflow
 
 <div align="left">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-111111?style=for-the-badge&logo=google)
 
