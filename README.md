@@ -35,9 +35,19 @@ Strengths:
 
 ---
 
-# 🎮 Gaming & eSports
+# 🌐 NODES
 
-> Passionate about gaming culture, eSports communities, and building digital experiences that connect with modern audiences.
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/pratham.designz?igsh=MTEweXQwZWp6enFscw==)
+
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=X)](https://x.com/PrathamM1310)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pratham-malkan-aa2388376)
+
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord)](https://discord.gg/YFaEx7A2)
+
+</div>
 
 ---
 
