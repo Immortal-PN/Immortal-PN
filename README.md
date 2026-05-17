@@ -2,68 +2,72 @@
 
 # PRATHAM MALKAN
 
-### Creative Designer • Web Developer • Video Editor • eSports Enthusiast
+### Creative Technologist • Designer • Developer • eSports Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Design+%E2%80%A2+Development+%E2%80%A2+Gaming;Creating+for+Communities+%26+Creators" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Interactive+Digital+Experiences;Design+%E2%80%A2+Development+%E2%80%A2+Gaming;Crafting+Modern+Web+Experiences;Creating+for+Communities+%26+Creators" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# ⚡ About Me
 
 ```yaml
 Name: Pratham Malkan
-Role: Designer + Developer
+Role: Creative Technologist
+
 Focus:
-  - Web Applications
+  - Modern Web Development
+  - UI/UX Experiences
   - Motion Graphics
   - Gaming & eSports Content
-  - Creative Development
 
-Currently Exploring:
+Currently Learning:
+  - React / Next.js
+  - Interactive UI
   - AI-powered workflows
-  - Interactive UI/UX
-  - Modern Web Experiences
+
+Strengths:
+  - Creative Thinking
+  - Fast Execution
+  - Design + Development Combination
 ```
 
 ---
 
 # 🎮 Gaming & eSports
 
-> Passionate about gaming culture, competitive eSports, and building engaging digital experiences for online communities.
+> Passionate about gaming culture, eSports communities, and building digital experiences that connect with modern audiences.
 
 ---
 
-# ⚡ Tech Arsenal
-
----
+# 🚀 Tech Arsenal
 
 ## 🎨 Creative & Editing
 
 <div align="left">
 
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
-![After Effects](https://img.shields.io/badge/Adobe_After_Effects-111111?style=for-the-badge&logo=adobeaftereffects)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
+![Photoshop](https://img.shields.io/badge/Photoshop-111111?style=for-the-badge&logo=adobephotoshop)
+![After Effects](https://img.shields.io/badge/After%20Effects-111111?style=for-the-badge&logo=adobeaftereffects)
+![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender)
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva)
 
 </div>
 
 ---
 
-## 💻 Development Stack
+## 💻 Development
 
 <div align="left">
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 
 </div>
 
@@ -97,13 +101,13 @@ Currently Exploring:
 # 📌 Featured Projects
 
 ## 🔹 LostLink
-Lost & found platform with authentication and reporting system.
+Modern lost & found platform with authentication and reporting workflow.
 
 ## 🔹 MobStore
-E-commerce web application with warranty and service management.
+E-commerce application with warranty and service management system.
 
-## 🔹 Burger Villa Content Editing
-Created engaging social media reels and motion graphics.
+## 🔹 Burger Villa Media
+Created engaging motion edits and social media content for brand growth.
 
 ---
 
@@ -121,7 +125,7 @@ Experiences should feel memorable.
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify.com)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify.com)
 
 </div>
 
@@ -143,6 +147,12 @@ Experiences should feel memorable.
 
 ---
 
+# 📊 Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
 # 📫 Connect With Me
 
 - 📧 malkanpratham@gmail.com
@@ -152,6 +162,6 @@ Experiences should feel memorable.
 
 <div align="center">
 
-### ⚡ Design. Develop. Create. Repeat.
+### ⚡ Design • Develop • Create • Repeat
 
 </div>
